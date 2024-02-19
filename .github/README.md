@@ -1,5 +1,5 @@
 # ------- 20240215 -----
-**Sadly I have no time to maintain this project at the moment.**
+**This is going to be an attempt that I make to maintain BraveNewPipeLegacy.**
 
 
 ------------------------
